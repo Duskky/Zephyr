@@ -1,0 +1,2 @@
+# Zephyr
+Zephyr Discord bot
